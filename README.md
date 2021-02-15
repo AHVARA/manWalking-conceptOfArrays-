@@ -1,0 +1,1 @@
+# manWalking-conceptOfArrays-
